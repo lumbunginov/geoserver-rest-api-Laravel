@@ -51,7 +51,9 @@ Here's the TODO list for the next release.
 
 ## Credits
 
-This Package is inspired by [OneOffTech/geoserver-client-php](https://github.com/OneOffTech/geoserver-client-php). Huge thanks goes to OneOffTech [OneOffTech/geoserver-client-php](https://github.com/OneOffTech/geoserver-client-php) for their amazing work!
+This repository is forked from [ttungbmt/geoserver-rest-api](https://github.com/ttungbmt/geoserver-rest-api). Special thanks to the original author for creating this excellent GeoServer REST API library.
+
+The original package is inspired by [OneOffTech/geoserver-client-php](https://github.com/OneOffTech/geoserver-client-php). Huge thanks goes to OneOffTech [OneOffTech/geoserver-client-php](https://github.com/OneOffTech/geoserver-client-php) for their amazing work!
 
 ## License
 
