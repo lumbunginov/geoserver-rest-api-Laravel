@@ -3,7 +3,7 @@
         'name' => 'lumbunginov/geoserver-rest-api-laravel',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'ec05f46b132ee45bc7cf6ed259da020d5103c9cb',
+        'reference' => 'd0a5fa6d62a21f4186b3c43cd4f00fc5cb1062c4',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -229,7 +229,7 @@
         'lumbunginov/geoserver-rest-api-laravel' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'ec05f46b132ee45bc7cf6ed259da020d5103c9cb',
+            'reference' => 'd0a5fa6d62a21f4186b3c43cd4f00fc5cb1062c4',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
