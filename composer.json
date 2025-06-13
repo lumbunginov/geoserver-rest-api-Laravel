@@ -1,16 +1,16 @@
 {
-    "name": "ttungbmt/geoserver-rest-api",
+    "name": "lumbunginov/geoserver-rest-api-laravel",
     "description": "GeoServer REST API For Laravel/PHP",
     "keywords": [
         "laravel",
         "geoserver"
     ],
-    "homepage": "https://github.com/ttungbmt/geoserver-rest-api",
+    "homepage": "https://github.com/lumbunginov/geoserver-rest-api-Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Truong Thanh Tung",
-            "email": "ttungbmt@gmail.com"
+            "name": "Lumbung Inovasi Digital",
+            "email": "lumbunginov@gmail.com"
         }
     ],
     "require": {
