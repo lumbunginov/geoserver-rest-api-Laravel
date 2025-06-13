@@ -26,7 +26,7 @@ For detailed information of each of the provided functions check out the [docume
 The GeoServer REST API uses [Composer](http://getcomposer.org/) to manage its dependencies.
 
 ```bash
-composer require ttungbmt/geoserver-rest-api
+composer require lumbunginov/geoserver-rest-api-laravel
 ```
 
 ## Supported file formats
