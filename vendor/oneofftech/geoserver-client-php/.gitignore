@@ -1,0 +1,7 @@
+.DS_Store
+vendor/
+coverage
+phpunit.xml
+composer.lock
+.php_cs.cache
+.phpunit.result.cache
