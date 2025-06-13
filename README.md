@@ -32,7 +32,11 @@ composer require lumbunginov/geoserver-rest-api-laravel
 ## Supported file formats
 
 The library handles:
-
+{
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
 * `Shapefile`
 * `Shapefile` inside `zip` archive
 * `GeoTIFF`
