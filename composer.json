@@ -2,7 +2,7 @@
     "name": "lumbunginov/geoserver-rest-api-laravel",
     "description": "GeoServer REST API For Laravel/PHP",
     "keywords": [
-        "laravel",
+        "laravel 12",
         "geoserver"
     ],
     "homepage": "https://github.com/lumbunginov/geoserver-rest-api-Laravel",
